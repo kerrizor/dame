@@ -1,6 +1,6 @@
 # Dame
 
-TODO: Write a gem description
+Dame is a whitespace analyzer for quick and dirty complexity measurements
 
 ## Installation
 
